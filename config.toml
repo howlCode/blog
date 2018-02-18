@@ -1,4 +1,4 @@
-baseurl = "http://blog.howlcode.com"
+baseurl = "http://www.howlcode.com"
 theme = "cocoa-eh"
 builddrafts = true
 canonifyurls = true
