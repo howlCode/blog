@@ -3,17 +3,58 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://blog.howlcode.com/categories/</loc>
+    <loc>http://www.howlcode.com/blog/using-bulma.io-modals-in-rails/</loc>
+    <lastmod>2018-02-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.howlcode.com/blog/entry-point/</loc>
+    <lastmod>2018-01-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.howlcode.com/about/</loc>
+    <lastmod>2015-08-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.howlcode.com/portfolio/portfolio/</loc>
+    <lastmod>2015-08-19T20:29:37-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.howlcode.com/blog/</loc>
+    <lastmod>2018-02-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://blog.howlcode.com/tags/</loc>
+    <loc>http://www.howlcode.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://blog.howlcode.com/</loc>
+    <loc>http://www.howlcode.com/home/</loc>
+  </url>
+  
+  <url>
+    <loc>http://www.howlcode.com/license/</loc>
+  </url>
+  
+  <url>
+    <loc>http://www.howlcode.com/portfolio/</loc>
+    <lastmod>2015-08-19T20:29:37-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.howlcode.com/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.howlcode.com/</loc>
+    <lastmod>2018-02-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
