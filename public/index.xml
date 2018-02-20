@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>howlCode&#39;s Blog</title>
-    <link>http://www.howlcode.com/</link>
+    <link>http://blog.howlcode.com/</link>
     <description>Recent content on howlCode&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>Copyright © 2018 Matthew King</copyright>
     <lastBuildDate>Fri, 02 Feb 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://www.howlcode.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://blog.howlcode.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Using Bulma.io Modal&#39;s in Rails</title>
-      <link>http://www.howlcode.com/blog/using-bulma.io-modals-in-rails/</link>
+      <link>http://blog.howlcode.com/blog/using-bulma.io-modals-in-rails/</link>
       <pubDate>Fri, 02 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://www.howlcode.com/blog/using-bulma.io-modals-in-rails/</guid>
+      <guid>http://blog.howlcode.com/blog/using-bulma.io-modals-in-rails/</guid>
       <description>Having recently used a new CSS framework, Bulma.io, I thought I&amp;rsquo;d write a little about my experience using the framework and how I managed to get the Modal component working in my project. Bulma.io is the product of one individual, Jeremy Thomas, and is completely open-source and free to use. I wanted to use a framework that was more lightweight than some of the more famous ones such as bootstrap or foundation.</description>
     </item>
     
     <item>
       <title>Entry Point</title>
-      <link>http://www.howlcode.com/blog/entry-point/</link>
+      <link>http://blog.howlcode.com/blog/entry-point/</link>
       <pubDate>Sat, 27 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://www.howlcode.com/blog/entry-point/</guid>
+      <guid>http://blog.howlcode.com/blog/entry-point/</guid>
       <description>I&amp;rsquo;m working on some projects and will be documenting my journey creating them in this blog. I&amp;rsquo;m looking forward to sharing what I learn with you! In the meantime, please check me out on Github. Come back soon!
  &amp;ldquo;Every great developer you know got there by solving problems they were unqualified to solve until they actually did it.&amp;rdquo; - Patrick McKenzie
  </description>
@@ -34,40 +34,40 @@
     
     <item>
       <title>About</title>
-      <link>http://www.howlcode.com/about/</link>
+      <link>http://blog.howlcode.com/about/</link>
       <pubDate>Sat, 22 Aug 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://www.howlcode.com/about/</guid>
+      <guid>http://blog.howlcode.com/about/</guid>
       <description>Self-taught web developer living in the beautiful Piedmont of NC
 class matt_king belongs_to: [:beautiful_daughter, :lovely_wife] def initialize @interests = [&#39;hiking&#39;, &#39;cooking&#39;, &#39;reading&#39;, &#39;gaming&#39;, &#39;coding&#39;] @birth_place = &#39;Asheville, North Carolina&#39; end def current_stats @age = 35 @career = &#39;web developer&#39; @place = &#39;Raleigh, North Carolina&#39; end def skill_set @programming_languages = [&#39;Ruby&#39;, &#39;JavaScript&#39;, &#39;Go&#39;] @frameworks = {front_end: &#39;Bulma, Bootstrap&#39;, back_end: &#39;Rails&#39;} end end  </description>
     </item>
     
     <item>
       <title>Portfolio</title>
-      <link>http://www.howlcode.com/portfolio/portfolio/</link>
+      <link>http://blog.howlcode.com/portfolio/portfolio/</link>
       <pubDate>Wed, 19 Aug 2015 20:29:37 -0700</pubDate>
       
-      <guid>http://www.howlcode.com/portfolio/portfolio/</guid>
+      <guid>http://blog.howlcode.com/portfolio/portfolio/</guid>
       <description>Some of my work =
 Shroom Hunters</description>
     </item>
     
     <item>
       <title>Home</title>
-      <link>http://www.howlcode.com/home/</link>
+      <link>http://blog.howlcode.com/home/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.howlcode.com/home/</guid>
+      <guid>http://blog.howlcode.com/home/</guid>
       <description>Web developer living in the beautiful Piedmont of NC
 Welcome to my blog! Have a look at some posts below :</description>
     </item>
     
     <item>
       <title>License</title>
-      <link>http://www.howlcode.com/license/</link>
+      <link>http://blog.howlcode.com/license/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.howlcode.com/license/</guid>
+      <guid>http://blog.howlcode.com/license/</guid>
       <description>You can use this page to put a license on the contents of your blog, like so:
  The MIT License (MIT)
 Copyright &amp;copy; 2015 Nishanth Shanmughamnishanth.gerrard@gmail.com
