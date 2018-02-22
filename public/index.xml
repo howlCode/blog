@@ -39,7 +39,7 @@
       
       <guid>http://blog.howlcode.com/about/</guid>
       <description>Self-taught web developer living in the beautiful Piedmont of NC
-class matt_king belongs_to: [:beautiful_daughter, :lovely_wife] def initialize @interests = [&#39;hiking&#39;, &#39;cooking&#39;, &#39;reading&#39;, &#39;gaming&#39;, &#39;coding&#39;] @birth_place = &#39;Asheville, North Carolina&#39; end def current_stats @age = 35 @career = &#39;web developer&#39; @place = &#39;Raleigh, North Carolina&#39; end def skill_set @programming_languages = [&#39;Ruby&#39;, &#39;JavaScript&#39;, &#39;Go&#39;] @frameworks = {front_end: &#39;Bulma, Bootstrap&#39;, back_end: &#39;Rails&#39;} end end  </description>
+class matt_king belongs_to: [:beautiful_daughter, :lovely_wife] attr_reader :birth_place attr_accessor :interests def initialize @interests = [&#39;hiking&#39;, &#39;cooking&#39;, &#39;reading&#39;, &#39;gaming&#39;, &#39;coding&#39;] @birth_place = &#39;Asheville, North Carolina&#39; end def current_stats age = 35 career = &#39;web developer&#39; place = &#39;Raleigh, North Carolina&#39; end def skill_set programming_languages = [&#39;Ruby&#39;, &#39;JavaScript&#39;, &#39;Go&#39;] frameworks = {&#39;front_end&#39;: &#39;Bulma, Bootstrap&#39;, &#39;back_end&#39;: &#39;Rails&#39;} end end  </description>
     </item>
     
     <item>
@@ -49,7 +49,9 @@ class matt_king belongs_to: [:beautiful_daughter, :lovely_wife] def initialize @
       
       <guid>http://blog.howlcode.com/portfolio/portfolio/</guid>
       <description>Some of my work =
-Shroom Hunters</description>
+Shroom Hunters - Full Stack App. Rails 5 with Bulma.io css framework on a postgreSQL DB. Deployed on Digital Ocean 
+The Great Color Game - Vanilla JavaScript and CSS 
+Etch-a-Sketch - JQuery and CSS</description>
     </item>
     
     <item>
@@ -59,7 +61,7 @@ Shroom Hunters</description>
       
       <guid>http://blog.howlcode.com/home/</guid>
       <description>Web developer living in the beautiful Piedmont of NC
-Welcome to my blog! Have a look at some posts below :</description>
+Welcome to my blog!</description>
     </item>
     
     <item>
