@@ -24,7 +24,7 @@ class matt_king
   end
 
   def skill_set
-    programming_languages = ['Ruby', 'JavaScript', 'Go']
+    programming_languages = ['Ruby', 'JavaScript']
     frameworks = {'front_end': 'Bulma, Bootstrap', 'back_end': 'Rails'}
   end
 end
