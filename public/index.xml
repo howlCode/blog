@@ -48,7 +48,7 @@
       
       <guid>http://blog.howlcode.com/about/</guid>
       <description>Self-taught web developer living in the beautiful Piedmont of NC
-class matt_king belongs_to: [:beautiful_daughter, :lovely_wife] attr_reader :birth_place attr_accessor :interests def initialize @interests = [&#39;hiking&#39;, &#39;cooking&#39;, &#39;reading&#39;, &#39;gaming&#39;, &#39;coding&#39;] @birth_place = &#39;Asheville, North Carolina&#39; end def current_stats age = 35 career = &#39;web developer&#39; place = &#39;Raleigh, North Carolina&#39; end def skill_set programming_languages = [&#39;Ruby&#39;, &#39;JavaScript&#39;, &#39;Go&#39;] frameworks = {&#39;front_end&#39;: &#39;Bulma, Bootstrap&#39;, &#39;back_end&#39;: &#39;Rails&#39;} end end  </description>
+class matt_king belongs_to: [:beautiful_daughter, :lovely_wife] attr_reader :birth_place attr_accessor :interests def initialize @interests = [&#39;hiking&#39;, &#39;cooking&#39;, &#39;reading&#39;, &#39;gaming&#39;, &#39;coding&#39;] @birth_place = &#39;Asheville, North Carolina&#39; end def current_stats age = 35 career = &#39;web developer&#39; place = &#39;Raleigh, North Carolina&#39; end def skill_set programming_languages = [&#39;Ruby&#39;, &#39;JavaScript&#39;] frameworks = {&#39;front_end&#39;: &#39;Bulma, Bootstrap&#39;, &#39;back_end&#39;: &#39;Rails&#39;} end end  </description>
     </item>
     
     <item>
@@ -59,8 +59,7 @@ class matt_king belongs_to: [:beautiful_daughter, :lovely_wife] attr_reader :bir
       <guid>http://blog.howlcode.com/portfolio/portfolio/</guid>
       <description>Some of my work =
 Shroom Hunters - Full Stack Rails 5 
-Reactive Tarot - React frontend for my Rails 5 Tarot API, still a WIP 
-The Great Color Game - Vanilla JavaScript and CSS 
+Reactive Tarot - Rails 5 API 
 Etch-a-Sketch - JQuery and CSS</description>
     </item>
     
